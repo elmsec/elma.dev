@@ -10,7 +10,7 @@ title: "Hakkımda"
 
 :kite: [Telegramic]({{< relref "/work/telegramic" >}}), son zamanlarda gerçekten keyif alarak geliştirdiğim web uygulamalarımdan biri. 2020 itibarıyla 65 bin kullanıcısı var ve her gün yaklaşık 150 yeni insanın katıldığı kullanışlı bir araç setine ve topluluk ağına dönüştü. Telegramic hakkındaki detaylı bir yazıma [buraya]({{< relref "/notes/telegramic" >}}) tıklayarak ulaşabilirsiniz. 
 
-:penguin: GNU/Linux'e olan ilgim her geçen gün artıyor. Sistem güvenliği, optimizasyonu ve yönetimi üzerine kendimi geliştiriyorum. Veri güvenliği benim için artık bir hobi sayılır, zira çokça ilgileniyor ve bundan keyif alıyorum. Tamamen, şeytanın kök salmamasını sağlamaya yönelik bir ilgiye dönüşmek üzere ;). Sizleri Arch Linux'e davet ediyorum; [işinizi kolaylaştıracak bir script](https://github.com/elmsec/encrypted-arch) de yazdım.
+:penguin: GNU/Linux'e olan ilgim her geçen gün artıyor. Sistem güvenliği, optimizasyonu ve yönetimi üzerine kendimi geliştiriyorum. Veri güvenliği benim için artık bir hobi sayılır, zira çokça ilgileniyor ve bundan keyif alıyorum. Tamamen, şeytanın kök salmamasını sağlamaya yönelik bir ilgiye dönüşmek üzere ;). Son zamanlarda [Lockigest](https://elma.pw/tr/notes/lockigest/) isminde güvenlik amaçlı bir betik yazdım. Arch Linux kullanıyorum ve kullanmanızı tavsiye ediyorum; [kurulumlarınızı kolaylaştıracak bir betik](https://github.com/elmsec/encrypted-arch) de yazdım.
 
 :car: Rutin hale gelen işleri yazılımlarla otomatikleştirmek veya var olan bir yapıyı iyileştirmekten de çok keyif alıyorum. Tüm günümü bu şekilde harcadığım çok olmuştur. 
 
