@@ -42,7 +42,7 @@ Aşağıda Lockigest'in adım adım çalışma şekli yer alıyor. Cihaz sahibin
 
 
 ### Konuşmak kolay, kodları görelim
-Lockigest, yorum satırları ve boş satırlar dahil yalnızca 90 satırdan ibaret bir Bash kabuk betiği. Ancak çok faydalı olabilir.
+Lockigest, yorum satırları ve boş satırlar dahil yalnızca 90 satırdan ibaret bir Bash kabuk betiği. Ancak çok faydalı olabilir. Kodları görmek için [tıklayın](https://github.com/elmsec/lockigest).
 
 
 

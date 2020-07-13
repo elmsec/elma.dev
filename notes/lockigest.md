@@ -23,7 +23,7 @@ With this approach, you do not have to type your password -again and again- to u
 {{< video src="/images/lockigest.mp4" title="Trying Lockigest" controls="1" controls="1" >}}
 
 ### Talk is cheap so let's see the code:
-Lockigest is a very small software consisting of 90 lines code, including comment and blank lines. It can be very useful though.
+Lockigest is a very small software consisting of 90 lines code, including comment and blank lines. It can be very useful though. To see the repo, [click here](https://github.com/elmsec/lockigest).
 
 ***
 The main idea behind this simple software is the "trap system". You can change the way your Lockigest deactivates the trap. For instance, you can use your keyboard strokes so if you type "a" and wait for three seconds and then type "can2", the trap can be deactivated. It's only limited to your imagination and the triggers you choose.
