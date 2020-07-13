@@ -6,6 +6,7 @@ toc: false
 description: "Lockigest, yabancılardan korumak için cihazınızın ekranını hemen kilitlemek yerine tuzak kuran manipülatif güvenlik aracıdır. "
 tags: ["terminal"]
 categories: ["Güvenlik", "GNU Linux"]
+og_image: "/images/lockigest.jpg"
 ---
 
 {{< figure src="/images/lockigest.jpg" class="no-shadow" title="size karşı / yabancılara karşı" >}}

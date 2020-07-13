@@ -4,6 +4,7 @@ date: 2018-08-06T19:35:13+03:00
 draft: false
 tags: ["telegram-bot"]
 categories: ["Python", "Telegram"]
+og_image: "/images/reget-bot-comic.jpg"
 ---
 
 {{< figure src="/images/reget-bot-comic.jpg" class="no-shadow" >}}
