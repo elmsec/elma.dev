@@ -1,5 +1,5 @@
 ---
-title: "Lockigest"
+title: "Lockigest - primitive, manipulative, secure"
 date: 2020-07-13T01:24:20+03:00
 draft: false
 toc: false
@@ -12,6 +12,8 @@ og_image: "/images/lockigest.jpg"
 {{< figure src="/images/lockigest.jpg" class="no-shadow" title="to you / to strangers" >}}
 
 :closed_lock_with_key:  Lockigest is a very primitive, manipulative security software that sets a trap instead of locking your device screen immediately to protect it from strangers.
+
+You can customize and use this tool that I wrote just to embody my idea. It would be great if you fork my repo, everyone can see it. :star:
 
 ### Here is how Lockigest works:  
 1. Follow the cursor's movements. 
