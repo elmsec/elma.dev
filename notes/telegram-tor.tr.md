@@ -35,7 +35,7 @@ Artık Tor vekil sunucusunu ekleyebilirsiniz. __"VEKİL SUNUCU EKLE"__ butonuna 
 Hepsi bu kadardı. __Kaydet__'e tıklayın. Telegram artık bu vekil sunucuyu kullanmayı deneyecektir.
 
 Bu adımı hızlandırmak için, alternatif olarak aşağıdaki bağlantıyı kullanabilirsiniz:  
-https://t.me/socks?server=127.0.0.1&port=9050
+[https://t.me/socks?server=127.0.0.1&port=9050](https://t.me/socks?server=127.0.0.1&port=9050)
 
 
 
