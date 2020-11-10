@@ -1,5 +1,5 @@
 ---
-title: "Lockigest - ilkel, manipülatif, güvenli"
+title: "🔐 Lockigest - ilkel, manipülatif, güvenli"
 date: 2020-07-13T01:24:18+03:00
 draft: false
 toc: false
@@ -29,7 +29,7 @@ Bu yaklaşımla, cihazınızın kilidini açmak için parolanızı tekrar tekrar
 
 
 ### Konuşmak kolay, kodları görelim
-Lockigest, yorum satırları ve boş satırlar dahil yalnızca 90 satırdan ibaret bir Bash kabuk betiği. Ancak çok faydalı olabilir. Kodları görmek için [tıklayın](https://github.com/elmsec/lockigest).
+Lockigest, yorum satırları ve boş satırlar dahil yalnızca 90 satırdan ibaret bir Bash kabuk betiği. Ancak çok faydalı olabilir. Kodları görmek için [tıklayın](https://bit.ly/lockigest).
 
 
 ***
