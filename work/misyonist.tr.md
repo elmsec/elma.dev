@@ -12,7 +12,7 @@ Bir proje için çoklu platform uygulama geliştirmem gerekiyordu. Ben de Dart i
 Misyonist, basit ancak etkili bir yapılacaklar uygulamasıdır. Ayrıca tamamlanacak görevlerinizin durumunu görselleştirebilir.
 
 __💡 Kullanması kolay__  
-Misyonist'i kullanamya başlamak, yaratıcı tasarımından ötürü çok kolaydır. Yeni bir görev ekle, tamamlayınca üzerine bas, silmek içinse sola kaydır. Hepsi bu!
+Misyonist'i kullanmaya başlamak, yaratıcı tasarımından ötürü çok kolaydır. Yeni bir görev ekle, tamamlayınca üzerine bas, silmek içinse sola kaydır. Hepsi bu!
 
 __⚡️  Hızlıca ekleyin__  
 İçerisine görev eklemek istediğiniz kutucuğa uzun basarak, hızlıca görev oluşturabilirsiniz.
