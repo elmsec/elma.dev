@@ -8,7 +8,7 @@ Reget Bot; yeni müzikler, filmler, kitaplar, yazarlar, oyunlar, diziler ve TV p
 
 Tüm istekleri __Python__ ve [Telegram Bots API](https://core.telegram.org/bots/api) ile ele alır. Kendisi hakkında [şurada]({{< relref path="/notes/reget-bot" lang="tr">}}) detaylıca yazdım.
 
-- [:cat: Github'da görüntüle](https://github.com/canelma/regetbot)  
-- [:kite: Telegramic'te görüntüle](https://telegramic.org/bot/regetbot)
-- [:speak_no_evil: Telegram'da konuş](https://t.me/regetbot)
-- [:stars: Destekle](https://t.me/tlgrmcbot?start=regetbot-review)
+- [:cat: Github'da görüntüle](https://bit.ly/regetbot-github)   
+- [:kite: Telegramic'te görüntüle](https://bit.ly/regetbot-telegramic)
+- [:speak_no_evil: Telegram'da konuş](https://bit.ly/regetbot-telegram)
+- [:stars: Destekle](https://bit.ly/regetbot-rating)

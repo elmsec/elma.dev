@@ -8,7 +8,7 @@ Reget Bot works based on [Tastekid API](https://tastedive.com/read/api) and can 
 
 It also uses the [Telegram Bots API](https://core.telegram.org/bots/api) as an interface.
 
-- [:cat: Github repository](https://github.com/canelma/regetbot)   
-- [:kite: View on Telegramic](https://telegramic.org/bot/regetbot)
-- [:speak_no_evil: Talk on Telegram](https://t.me/regetbot)
-- [:stars: Support it](https://t.me/tlgrmcbot?start=regetbot-review)
+- [:cat: Github repository](https://bit.ly/regetbot-github)   
+- [:kite: View on Telegramic](https://bit.ly/regetbot-telegramic)
+- [:speak_no_evil: Talk on Telegram](https://bit.ly/regetbot-telegram)
+- [:stars: Support it](https://bit.ly/regetbot-rating)
