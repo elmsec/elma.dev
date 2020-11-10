@@ -1,5 +1,5 @@
 ---
-title: "Reget Bot (Telegram Bot)"
+title: "Reget Bot - daha fazlasını keşfet"
 date: 2018-06-18T19:41:34+03:00
 draft: false
 ---
