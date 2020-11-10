@@ -30,7 +30,7 @@ Elma Sözlük, Flutter geliştirme kitiyle geliştirdiğim bir Türkçe Sözlük
 👓 Erişilebilirlik özellikleri  
 📱 Veri dostu  
 
-[{{< picture style="width:350px" src="https://play.google.com/intl/en_us/badges/static/images/badges/tr_badge_web_generic.png" class="no-shadow" >}}](https://play.google.com/store/apps/details?id=dev.elma.sozluk&utm_source=elma.dev)
+[{{< picture style="width:350px" src="https://play.google.com/intl/en_us/badges/static/images/badges/tr_badge_web_generic.png" class="no-shadow" >}}](https://bit.ly/elmasozluk-elmadev)
 
 
 ## Ekran görüntüleri:
