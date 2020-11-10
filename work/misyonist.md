@@ -1,6 +1,6 @@
 ---
 title: "Misyonist - yet another 'to-do' app"
-date: 2020-11-10T14:54:14+03:00
+date: 2020-09-10T14:54:14+03:00
 draft: false
 description: "Misyonist is a simple yet effective to-do list app. It also visualizes the statuses of your tasks."
 ---
