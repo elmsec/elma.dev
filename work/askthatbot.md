@@ -1,5 +1,5 @@
 ---
-title: "Ask That Bot - get anonymous questions"
+title: "💭 Ask That Bot - get anonymous questions"
 date: 2020-06-11T00:25:46+03:00
 draft: false
 toc: false

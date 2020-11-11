@@ -1,5 +1,5 @@
 ---
-title: "Misyonist - bir başka 'yapılacaklar' uygulaması"
+title: "✅ Misyonist - bir başka 'yapılacaklar' uygulaması"
 date: 2020-09-10T14:54:14+03:00
 draft: false
 description: "Misyonist, basit ancak etkili bir yapılacaklar uygulamasıdır. Ayrıca tamamlanacak görevlerinizin durumunu görselleştirebilir."

@@ -1,5 +1,5 @@
 ---
-title: "🍏 Elma Dictionary - Modern Turkish dictionary"
+title: "🍏 Elma Dictionary - modern Turkish dictionary"
 date: 2020-10-25T15:12:49+03:00
 draft: false
 toc: false

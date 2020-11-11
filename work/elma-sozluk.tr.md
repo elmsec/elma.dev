@@ -1,5 +1,5 @@
 ---
-title: "🍏 Elma Sözlük - En güncel, modern Türkçe sözlük"
+title: "🍏 Elma Sözlük - en güncel, modern Türkçe sözlük"
 date: 2020-10-25T15:12:49+03:00
 draft: false
 toc: false

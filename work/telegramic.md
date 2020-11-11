@@ -1,5 +1,5 @@
 ---
-title: "Telegramic - Social Telegram Directory"
+title: "🌟 Telegramic - social Telegram directory"
 date: 2018-12-15T15:12:49+03:00
 draft: false
 toc: false

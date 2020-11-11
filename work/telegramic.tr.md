@@ -1,5 +1,5 @@
 ---
-title: "Telegramic - Sosyal Telegram Dizini"
+title: "🌟 Telegramic - sosyal Telegram dizini"
 date: 2018-12-15T15:12:49+03:00
 draft: false
 toc: false
