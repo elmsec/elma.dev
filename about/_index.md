@@ -21,4 +21,4 @@ title: "About me"
 🎨 The coffeehouse chat of the software industry is __software languages__. Let me just talk about it 😄. It's useful and good to gain experience with new programming languages ​​and expanding the toolkit we have, which I often do. The programming languages ​​and the frameworks that I have used in the last few years and developed at least one project with are; Python, Django, Flask, Tornado; Javascript, React, React Native, VueJS; Dart, Flutter; Java, Android; PHP, CodeIgniter; Bash?:D. For me, Python is the most practical, Dart and  Javascript are most interesting, and Java is the most /serious!/ one. Nowadays, Go and Rust are also interesting to me.
 
 🎉 __If you've read up to this line, you may want to say "Hi!" to me:__  
-Send an email to eyup\[@]elma\[.]dev or a message on [Telegram](https://t.me/elmsec).
+You can send an email to eyup\[@]elma\[.]dev or a message on [Telegram](https://t.me/elmsec).

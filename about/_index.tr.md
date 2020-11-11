@@ -20,4 +20,5 @@ title: "Hakkımda"
 
 🎨 Yazılımın kahvehane muhabbeti de __yazılım dilleri__ üzerinedir, ben de bir değineyim 😄. Yeni diller denemek ve onları tanımak, elimizdeki araç setini büyütmek adına faydalı ve güzel, ben de sıklıkla yapıyorum. Son birkaç yıl içerisinde kullandığım ve bir tane de olsa proje geliştirdiğim diller ve çatılar; Python, Django, Flask, Tornado; Javascript, React, React Native, VueJS; Dart, Flutter; Java, Android; PHP, CodeIgniter; Bash?:D. En pratik bulduğum Python, en ilginç bulduğum Dart ve Javascript, en /ciddi!/ bulduğum ise Java. Şu sıralar Go ve Rust da ilgimi çekiyor.
 
-🎉 __Okuduğunuz için teşekkürler!__
+🎉 __Bu satıra kadar okuduysanız, bana bir 'merhaba' demek isteyebilirsiniz:__  
+E-postanızı eyup\[@]elma\[.]dev adresine gönderebilir veya [Telegram](https://t.me/elmsec)'da bir mesaj yazabilirsiniz.
