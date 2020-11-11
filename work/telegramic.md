@@ -3,7 +3,8 @@ title: "🌟 Telegramic - social Telegram directory"
 date: 2018-12-15T15:12:49+03:00
 draft: false
 toc: false
-tags: ["telegramic"]
+categories: ["Web"]
+tags: ["telegramic", "application", "service"]
 ---
 
 [Telegramic](https://telegramic.org) is both a community for Telegram users and developers, and a Telegram directory containing bots, channels, groups, stickers, news, and so forth!

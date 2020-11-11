@@ -4,7 +4,7 @@ date: 2020-07-13T01:24:20+03:00
 draft: false
 toc: false
 description: "Lockigest is a very primitive, manipulative security software that sets a trap instead of locking your device screen immediately to protect it from strangers."
-tags: ["terminal"]
+tags: ["terminal", "application"]
 categories: ["Security", "GNU Linux"]
 og_image: "/images/lockigest.jpg"
 ---

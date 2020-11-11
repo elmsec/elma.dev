@@ -2,6 +2,8 @@
 title: "🚩 Reget Bot - daha fazlasını keşfet"
 date: 2018-06-18T19:41:34+03:00
 draft: false
+categories: ["Telegram"]
+tags: ["chatbot"]
 ---
 
 Reget Bot; yeni müzikler, filmler, kitaplar, yazarlar, oyunlar, diziler ve TV programları keşfetmeniz için size yardım eder.

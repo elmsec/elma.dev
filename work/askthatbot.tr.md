@@ -3,6 +3,8 @@ title: "💭 Ask That Bot - anonim sorular alın"
 date: 2020-06-11T00:25:46+03:00
 draft: false
 toc: false
+categories: ["Telegram"]
+tags: ["chatbot"]
 ---
 
 Ask That Bot ile insanlardan anonim sorular alabilir, herkese açık şekilde cevaplayabilirsiniz. İnsanlar, cevapladığınız soruları için bildirim alabilirler. 

@@ -3,6 +3,8 @@ title: "📖 Dictionary - a simple Turkish dictionary"
 date: 2019-08-23T20:24:39+03:00
 draft: false
 toc: false
+categories: ["Web", "Vue.js"]
+tags: ["application"]
 ---
 
 If you search for words more than once like me during the day, hitting the enter key or clicking the search icon on every search can steal your time as much as you type on the keyboard, and I had this problem.

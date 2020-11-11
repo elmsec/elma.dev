@@ -4,7 +4,7 @@ date: 2020-10-25T15:12:49+03:00
 draft: false
 toc: false
 categories: ["Flutter"]
-tags: ["android"]
+tags: ["android", "application"]
 ---
 
 ## What is Elma Dictionary?

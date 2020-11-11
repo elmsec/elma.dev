@@ -2,6 +2,8 @@
 title: "🚩 Reget Bot - discover more"
 date: 2018-06-18T19:41:34+03:00
 draft: false
+categories: ["Telegram"]
+tags: ["chatbot"]
 ---
 
 Reget Bot works based on [Tastekid API](https://tastedive.com/read/api) and can help you discover new musics, movies, books, authors, games or TV shows and series. It's written in Python.
