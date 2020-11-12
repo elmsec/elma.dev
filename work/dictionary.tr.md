@@ -4,7 +4,7 @@ date: 2019-08-23T20:24:39+03:00
 draft: false
 toc: false
 categories: ["Web", "Vue.js"]
-tags: ["application"]
+tags: ["uygulama"]
 ---
 
 Gün içinde benim gibi birden fazla kez (ortalama 5) kelime aratıyorsanız, her aramada enter tuşuna basmak veya arama ikonuna tıklamak, klavyede hızlı yazan biriyseniz yazdığınız kadar sürenizi çalabilir ve benden çalıyordu.

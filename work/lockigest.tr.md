@@ -4,8 +4,8 @@ date: 2020-07-13T01:24:18+03:00
 draft: false
 toc: false
 description: "Lockigest, yabancılardan korumak için cihazınızın ekranını hemen kilitlemek yerine tuzak kuran manipülatif güvenlik aracıdır. "
-tags: ["terminal", "application"]
 categories: ["Güvenlik", "GNU Linux"]
+tags: ["terminal", "uygulama"]
 og_image: "/images/lockigest.jpg"
 ---
 
@@ -29,7 +29,7 @@ Bu yaklaşımla, cihazınızın kilidini açmak için parolanızı tekrar tekrar
 
 
 ### Konuşmak kolay, kodları görelim
-Lockigest, yorum satırları ve boş satırlar dahil yalnızca 90 satırdan ibaret bir Bash kabuk betiği. Ancak çok faydalı olabilir. Kodları görmek için [tıklayın](https://bit.ly/lockigest).
+Lockigest, yorum satırları ve boş satırlar dahil yalnızca 90 satırdan ibaret bir Bash kabuk betiği. Ancak çok faydalı olabilir. Kodları görmek için [tıklayın](https://bit.ly/lockigest). __Beni motive etmek ve bana destek olmak için projeyi yıldızlayabilirsiniz ⭐️.__
 
 
 ***

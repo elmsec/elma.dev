@@ -4,13 +4,13 @@ date: 2020-07-03T10:51:46+03:00
 draft: false
 toc: false
 categories: ["Güvenlik", "GNU Linux", "Bash"]
-tags: ["terminal", "application"]
+tags: ["terminal", "uygulama"]
 ---
 
-**Encrypted Arch** is a semi-interactive script to install Arch Linux over SSH to a fully encrypted disk created using LVM on LUKS. 
+**Encrypted Arch**, LUKS üzerinde LVM kullanılarak oluşturulmuş tam şifrelenmiş disk üzerine SSH ile Arch Linux kurmanızı sağlayan yarı interaktif scripttir. 
 
 ## Kaynak kodu
-[İşte burada :)](https://github.com/elmsec/encrypted-arch). Beni motive etmek için projeyi yıldızlayabilirsiniz ⭐️.
+[İşte burada :)](https://github.com/elmsec/encrypted-arch). __Beni motive etmek ve bana destek olmak için projeyi yıldızlayabilirsiniz ⭐️.__
 
 
 ## Öne çıkanlar

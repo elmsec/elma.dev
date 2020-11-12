@@ -4,7 +4,7 @@ date: 2018-12-15T15:12:49+03:00
 draft: false
 toc: false
 categories: ["Web"]
-tags: ["telegramic", "application", "service"]
+tags: ["telegramic", "uygulama", "servis"]
 ---
 
 ## Telegramic nedir?
